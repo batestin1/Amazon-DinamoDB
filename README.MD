@@ -18,6 +18,3 @@ Amazon DynamoDB is a fully managed NoSQL database service that provides fast, pr
 In this project we created a Harry Potter NoSQL database. They are fake data that can have 100 records. We created a Python script that transfers the files directly to the database, quickly and safely.</p>
 -------------------------
 
->> <h3> About CDN </h3>
--------------------------
-
